@@ -1,1 +1,1 @@
-# MNIST Digit Classification
+# MNIST Digit Classification Model
