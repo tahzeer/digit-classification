@@ -1,1 +1,1 @@
-# digit-classification
+# MNIST Digit Classification
